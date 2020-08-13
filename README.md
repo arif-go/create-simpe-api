@@ -1,1 +1,1 @@
-# create-simpe-api
+# create-simple-api
